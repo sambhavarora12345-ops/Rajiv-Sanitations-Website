@@ -13,7 +13,7 @@ export default function Maintenance() {
       <div className="absolute inset-0 bg-gradient-to-b from-ink via-ink/85 to-ink" />
 
       <div className="relative z-10 flex flex-col items-center">
-        <Logo className="h-28 sm:h-36 md:h-44" />
+        <Logo className="h-40 sm:h-52 md:h-64" />
 
         <div className="mt-10 h-px w-16 bg-cream/25" />
 
